@@ -1,7 +1,0 @@
-com\jtyu\aichat\AichatApplication.class
-com\jtyu\aichat\service\ChatService.class
-com\jtyu\aichat\model\ChatRoom.class
-com\jtyu\aichat\config\AiConfig.class
-com\jtyu\aichat\controller\ChatController.class
-com\jtyu\aichat\service\AiManage.class
-com\jtyu\aichat\service\impl\ChatServiceImpl.class
